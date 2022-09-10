@@ -1,5 +1,5 @@
 #A Simple basic Calculator Program written in JAVA
-
+#Calculator demo using JAVA
 import java.util.Scanner;
 
  public class calculator
